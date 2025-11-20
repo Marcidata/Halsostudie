@@ -15,3 +15,5 @@ Syftet är att träna på grundläggande statistik och visualiseringar i Python.
 ### Målet
 Visa att jag kan använda Python för att analysera data, göra statistik och tolka resultaten.  
 Detta är grunden för Del 2 där jag bygger vidare med funktioner, klasser och mer avancerad analys.
+
+
